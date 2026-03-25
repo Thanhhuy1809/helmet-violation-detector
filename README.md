@@ -2,7 +2,7 @@
 
 Download trained model here:
 
-https://drive.google.com/drive/my-drive?hl=vi
+https://drive.google.com/file/d/1cAotJI6cbaXy5_wzjnx11zgLkCvKPRsy/view?usp=sharing
 
 Download dataset images and labels :
 
