@@ -1,0 +1,14 @@
+track_id,frame_idx,timestamp,confidence,streak,snapshot
+50,86,2.87s,0.71,30,violations_snapshots\violation_id50_frame86.jpg
+38,99,3.30s,0.56,30,violations_snapshots\violation_id38_frame99.jpg
+204,187,6.23s,0.59,30,violations_snapshots\violation_id204_frame187.jpg
+608,715,23.82s,0.63,30,violations_snapshots\violation_id608_frame715.jpg
+656,739,24.62s,0.77,30,violations_snapshots\violation_id656_frame739.jpg
+946,899,29.95s,0.82,30,violations_snapshots\violation_id946_frame899.jpg
+1242,1008,33.59s,0.73,30,violations_snapshots\violation_id1242_frame1008.jpg
+1222,1027,34.22s,0.57,30,violations_snapshots\violation_id1222_frame1027.jpg
+1370,1115,37.15s,0.76,30,violations_snapshots\violation_id1370_frame1115.jpg
+1538,1275,42.48s,0.61,30,violations_snapshots\violation_id1538_frame1275.jpg
+1673,1529,50.95s,0.63,30,violations_snapshots\violation_id1673_frame1529.jpg
+1681,1603,53.41s,0.57,30,violations_snapshots\violation_id1681_frame1603.jpg
+2171,1981,66.01s,0.55,30,violations_snapshots\violation_id2171_frame1981.jpg
